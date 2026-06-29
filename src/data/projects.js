@@ -134,9 +134,9 @@ export const projects = [
   {
     id: 9,
     name: 'Alma — Moda Consciente',
-    category: 'Landing Page',
+    category: 'Web App',
     description:
-      'Landing page para marca de moda feminina sustentável — coleção Primavera/Verão 2026 com peças criadas com tecidos certificados, processos de baixo impacto e parcerias com ateliês locais.',
+      'Ecommerce para marca de moda feminina sustentável — coleção Primavera/Verão 2026 com peças criadas com tecidos certificados, processos de baixo impacto e parcerias com ateliês locais.',
     techs: ['React', 'TypeScript', 'CSS'],
     tags: ['Web', 'Landing Page'],
     demoUrl: 'https://lading-page-loja-roupa.vercel.app',
@@ -202,9 +202,9 @@ export const projects = [
   {
     id: 13,
     name: 'TechNow — Eletrônicos',
-    category: 'Landing Page',
+    category: 'Web App',
     description:
-      'Landing page para e-commerce de eletrônicos com oferta relâmpago em destaque, produtos em alta, avaliações de clientes e diferenciais de compra — foco máximo em conversão.',
+      'Ecommerce para e-commerce de eletrônicos com oferta relâmpago em destaque, produtos em alta, avaliações de clientes e diferenciais de compra — foco máximo em conversão.',
     techs: ['React', 'TypeScript', 'CSS'],
     tags: ['Web', 'Landing Page'],
     demoUrl: 'https://lading-page-eccomerce.vercel.app',
@@ -219,7 +219,7 @@ export const projects = [
   {
     id: 14,
     name: 'Atlantis Sul — Portal de Ideias',
-    category: 'Landing Page',
+    category: 'Web App',
     description:
       'Portal de ensaios e reflexões sobre política, economia, história, filosofia, direito e geopolítica — desenvolvido e em produção para cliente real, com sistema de categorias e artigos.',
     techs: ['React', 'TypeScript', 'CSS'],
