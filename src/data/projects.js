@@ -131,4 +131,105 @@ export const projects = [
       'Arquitetura modular com separação clara entre frontend público, área de cadastro e painéis admin',
     ],
   },
+  {
+    id: 9,
+    name: 'Alma — Moda Consciente',
+    category: 'Landing Page',
+    description:
+      'Landing page para marca de moda feminina sustentável — coleção Primavera/Verão 2026 com peças criadas com tecidos certificados, processos de baixo impacto e parcerias com ateliês locais.',
+    techs: ['React', 'TypeScript', 'CSS'],
+    tags: ['Web', 'Landing Page'],
+    demoUrl: 'https://lading-page-loja-roupa.vercel.app',
+    highlights: [
+      'Vitrine de produtos com nome, imagem e CTA "Adicionar à sacola"',
+      'Seção "Nossa essência" com storytelling de marca e valores sustentáveis',
+      'Depoimentos reais de clientes com nome, cidade e peça comprada',
+      'Nova coleção em destaque com identidade visual Playfair Display + Inter',
+    ],
+  },
+
+  {
+    id: 10,
+    name: 'Carlos Mendes — Deputado Estadual',
+    category: 'Landing Page',
+    description:
+      'Landing page de campanha política para candidato a deputado estadual — com trajetória pessoal, propostas por área, depoimentos e canais de apoio e doação.',
+    techs: ['React', 'TypeScript', 'CSS'],
+    tags: ['Web', 'Landing Page'],
+    demoUrl: 'https://lading-page-candidato.vercel.app',
+    highlights: [
+      'Seções de trajetória, propostas (saúde, educação, segurança, emprego) e conquistas',
+      'Formulário de cadastro de apoiadores e canal de doação integrado',
+      'Destaques de marcos: 20 anos de serviço, maior votação histórica do município',
+      'Identidade visual com Merriweather + Inter e tom institucional/popular',
+    ],
+  },
+
+  {
+    id: 11,
+    name: 'Mendes & Associados — Advocacia',
+    category: 'Landing Page',
+    description:
+      'Landing page para escritório de advocacia empresarial de alto nível — áreas de atuação (societário, trabalhista, tributário, contratos), diferenciais, depoimentos e orientação inicial gratuita.',
+    techs: ['React', 'TypeScript', 'CSS'],
+    tags: ['Web', 'Landing Page'],
+    demoUrl: 'https://lading-page-advocacia-rosy.vercel.app',
+    highlights: [
+      'Áreas de atuação: Direito Societário, Trabalhista, Tributário e Contratos',
+      'Diferenciais: sócio dedicado ao caso, comunicação sem jargão, acompanhamento em tempo real',
+      'Depoimentos de clientes com nome, cargo e empresa',
+      'Formulário de orientação inicial gratuita com seleção de área de interesse',
+    ],
+  },
+
+  {
+    id: 12,
+    name: 'Hospital São Lucas',
+    category: 'Landing Page',
+    description:
+      'Landing page institucional para hospital com 30 anos de história — especialidades médicas, diferenciais estruturais, depoimentos de pacientes e agendamento de consultas.',
+    techs: ['React', 'TypeScript', 'CSS'],
+    tags: ['Web', 'Landing Page'],
+    demoUrl: 'https://landing-page-hospital-eta.vercel.app',
+    highlights: [
+      '50+ especialidades: Cardiologia, Ortopedia, Pediatria, Oncologia, Neurologia e mais',
+      'Diferenciais: UTI com 60 leitos, acreditação hospitalar, prontuário eletrônico seguro',
+      'Depoimentos reais de pacientes de diversas especialidades',
+      'Formulário de agendamento com retorno em até 2 horas úteis',
+    ],
+  },
+
+  {
+    id: 13,
+    name: 'TechNow — Eletrônicos',
+    category: 'Landing Page',
+    description:
+      'Landing page para e-commerce de eletrônicos com oferta relâmpago em destaque, produtos em alta, avaliações de clientes e diferenciais de compra — foco máximo em conversão.',
+    techs: ['React', 'TypeScript', 'CSS'],
+    tags: ['Web', 'Landing Page'],
+    demoUrl: 'https://lading-page-eccomerce.vercel.app',
+    highlights: [
+      'Oferta relâmpago em destaque: produto hero com preço, economia e avaliações',
+      'Seção "bombando agora" com produtos em alta e descontos de até 40% OFF',
+      'Mais de 47.382 avaliações exibidas com resenhas reais de clientes',
+      'Diferenciais: parcelamento sem juros, frete grátis e devolução em 30 dias',
+    ],
+  },
+
+  {
+    id: 14,
+    name: 'Atlantis Sul — Portal de Ideias',
+    category: 'Landing Page',
+    description:
+      'Portal de ensaios e reflexões sobre política, economia, história, filosofia, direito e geopolítica — desenvolvido e em produção para cliente real, com sistema de categorias e artigos.',
+    techs: ['React', 'TypeScript', 'CSS'],
+    tags: ['Web', 'Landing Page'],
+    demoUrl: 'https://atlantisul.vercel.app',
+    highlights: [
+      'Projeto em produção entregue para cliente real com múltiplos autores',
+      'Sistema de categorias: Política, Filosofia, Economia, História, Música',
+      'Seção de destaque com artigos em evidência e listagem de mais artigos',
+      'Identidade editorial sólida: "densidade teórica, clareza editorial e responsabilidade intelectual"',
+    ],
+  },
 ]
