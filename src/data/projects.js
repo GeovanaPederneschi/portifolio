@@ -166,6 +166,23 @@ export const projects = [
   },
 
   {
+    id: 15,
+    name: 'Portfólio de Sites de Campanha',
+    category: 'Web App',
+    description:
+      'Hub com preview de todos os sites de campanha política que já desenvolvi — cada um com layout, paleta e narrativa próprios, mostrando até onde dá pra ir com identidade visual e features interativas.',
+    techs: ['React', 'Vite', 'Tailwind CSS'],
+    tags: ['Web', 'Landing Page'],
+    repoUrl: 'https://github.com/GeovanaPederneschi/portf-lio-politico',
+    highlights: [
+      'Preview de 6 sites temáticos: modelo base, placeholder moderno e pautas de animais, segurança, meio ambiente e educação',
+      'Cada site inclui cadastro de apoiadores, painel administrativo e disparo de novidades por e-mail',
+      'Gerador de foto lado a lado com o candidato, pronto pra compartilhar nos stories',
+      'Vitrine pensada como portfólio de possibilidades pra campanhas reais',
+    ],
+  },
+
+  {
     id: 11,
     name: 'Mendes & Associados — Advocacia',
     category: 'Landing Page',

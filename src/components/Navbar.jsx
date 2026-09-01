@@ -40,6 +40,14 @@ export default function Navbar() {
           >
             Contato
           </a>
+          <a
+            href="https://github.com/GeovanaPederneschi/portf-lio-politico"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-secondary/70 hover:text-primary transition-colors duration-200 text-sm font-medium"
+          >
+            Portfólio político ↗
+          </a>
         </div>
       </div>
     </nav>
