@@ -41,7 +41,7 @@ export default function Navbar() {
             Contato
           </a>
           <a
-            href="https://github.com/GeovanaPederneschi/portf-lio-politico"
+            href="https://portf-lio-politico.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="text-secondary/70 hover:text-primary transition-colors duration-200 text-sm font-medium"

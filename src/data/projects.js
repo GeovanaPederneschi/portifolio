@@ -173,6 +173,7 @@ export const projects = [
       'Hub com preview de todos os sites de campanha política que já desenvolvi — cada um com layout, paleta e narrativa próprios, mostrando até onde dá pra ir com identidade visual e features interativas.',
     techs: ['React', 'Vite', 'Tailwind CSS'],
     tags: ['Web', 'Landing Page'],
+    demoUrl: 'https://portf-lio-politico.vercel.app',
     repoUrl: 'https://github.com/GeovanaPederneschi/portf-lio-politico',
     highlights: [
       'Preview de 6 sites temáticos: modelo base, placeholder moderno e pautas de animais, segurança, meio ambiente e educação',
